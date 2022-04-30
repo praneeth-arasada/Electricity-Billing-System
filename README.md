@@ -17,7 +17,7 @@ A customer can only manage his account and cannot see any details of other custo
 <br>
 </b>
 </ul>
-Our project aims at Business process automation i.e., we have tried to computerize various processes of Electricity Billing System. In the sector of electricity board, we have computerized their departments.
+Our project aims at Business process automation i.e., we have tried to computerize the Electricity Billing System. 
 Scope of any software depends upon the following things:
 <li>It satisfies the user requirement.
 <li>Be easy to understand by the user and operator.
