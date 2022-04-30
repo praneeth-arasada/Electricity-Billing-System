@@ -10,12 +10,13 @@ It mainly focuses on the calculation of Units consumed during the specified and 
 This system helps in maintaining the bills and doing calculation of units.
 Admin and customers all have a different interface and different privileges according to their needs.
 A customer can only manage his account and cannot see any details of other customers, admin can see the details of all the customer’s accounts and the admin can manage all the accounts of the customers.
-
+<br>
 <ul>
 <b>
 Scope:
 </b>
 </ul>
+<br>
 Our project aims at Business process automation i.e., we have tried to computerize various processes of Electricity Billing System. In the sector of electricity board, we have computerized their departments.
 Scope of any software depends upon the following things:
 <li>It satisfies the user requirement.
@@ -24,5 +25,6 @@ Scope of any software depends upon the following things:
 <li> Have a good user interface.
 <li>Be expandable
 <li>Delivered on schedule within the budget.
+<br>  
 We have tried to make the such type of software, which satisfy the above given requirements.
   
