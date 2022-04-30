@@ -10,12 +10,11 @@ It mainly focuses on the calculation of Units consumed during the specified and 
 This system helps in maintaining the bills and doing calculation of units.
 Admin and customers all have a different interface and different privileges according to their needs.
 A customer can only manage his account and cannot see any details of other customers, admin can see the details of all the customer’s accounts and the admin can manage all the accounts of the customers.
-
-
-<br>
 <ul>
 <b>
-Scope:
+<br>
+  Scope:
+<br>
 </b>
 </ul>
 <br>
