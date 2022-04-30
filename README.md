@@ -17,7 +17,6 @@ A customer can only manage his account and cannot see any details of other custo
 <br>
 </b>
 </ul>
-<br>
 Our project aims at Business process automation i.e., we have tried to computerize various processes of Electricity Billing System. In the sector of electricity board, we have computerized their departments.
 Scope of any software depends upon the following things:
 <li>It satisfies the user requirement.
@@ -28,4 +27,24 @@ Scope of any software depends upon the following things:
 <li>Delivered on schedule within the budget.
 <br>  
 We have tried to make the such type of software, which satisfy the above given requirements.
+<br>  
+ 
+<ul>
+<b>
+<br>
+  Significance:
+<br>
+</b>
+</ul>
+<li>Easy to update information.
+<li>Work becomes very speedy.
+<li>Access of any information individually.
+<li>Decrease the load of the person involve in existing manual system.
+<li>Well-designed reports.
+<li>Easy & fast retrieval of information.
+<li>Accuracy in work.
+<li>It contains better storage capacity.
+<li>Robust database back-end.
+<li>Creating and changing issues at ease.
+<br>
   
